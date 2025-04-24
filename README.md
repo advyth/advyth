@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/Location-Bangalore-blue)]
+![Static Badge](https://img.shields.io/badge/Location-Bangalore-blue)
 
 [![Generic badge](https://img.shields.io/badge/LANGUAGE-JS-yellow.svg)](https://shields.io/)
 
