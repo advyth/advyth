@@ -1,8 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Location-Bangalore-blue)
 
-[![Generic badge](https://img.shields.io/badge/LANGUAGE-JS-yellow.svg)](https://shields.io/)
+![Static Badge](https://img.shields.io/badge/React_Native-DEV-green)
 
-[![Generic badge](https://img.shields.io/badge/SOCIAL_LIFE-404-red.svg)](https://shields.io/)
 
 
 
